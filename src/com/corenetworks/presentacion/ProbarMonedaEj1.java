@@ -1,10 +1,10 @@
 package com.corenetworks.presentacion;
 
-import com.corenetworks.modelo.Monedas;
+import com.corenetworks.modelo.MonedasEj1;
 
-public class ProbarMoneda {
+public class ProbarMonedaEj1 {
     public static void main(String[] args) {
-        Monedas objmoneda = new Monedas();
+        MonedasEj1 objmoneda = new MonedasEj1();
         System.out.println(objmoneda.cambioBilletes(200, 163.27F));
 
     }

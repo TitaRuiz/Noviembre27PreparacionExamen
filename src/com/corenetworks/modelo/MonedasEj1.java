@@ -1,6 +1,6 @@
 package com.corenetworks.modelo;
 
-public class Monedas {
+public class MonedasEj1 {
     public final float b50 = 50;
     public final float b20 = 20;
 
